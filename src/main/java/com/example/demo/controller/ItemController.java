@@ -35,6 +35,10 @@ public class ItemController {
         itemService.deleteItemById(id);
     }
 
+    //ToDo: search functionality, category management, and price adjustment api
+
+
+
 //    @GetMapping("/category/{category}")
 //    public List<Item> getItemsByCategory(@PathVariable String category) {
 //        return itemService.getItemsByCategoryName(category);
